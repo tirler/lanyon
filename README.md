@@ -56,7 +56,7 @@ There are eight themes available at this time.
 To use a theme, add any one of the available theme classes to the `<body>` element in the `default.html` layout, like so:
 
 ```html
-<body class="theme-base-08">
+<body class="theme-base-0d">
   ...
 </body>
 ```
